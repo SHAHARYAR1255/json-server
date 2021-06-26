@@ -4,5 +4,16 @@
             { "id": "2", "name": "Leia", "bio": "Graphic Designer" },
             { "id": "3", "name": "Anakin", "bio": "Graphic Designer" }
         ]
-  
+  ,
+  "mentors: [
+            { "id": "1", "name": "Luke", "bio": "Graphic Designer" },
+            { "id": "2", "name": "Leia", "bio": "Graphic Designer" },
+            { "id": "3", "name": "Anakin", "bio": "Graphic Designer" }
+        ]
+,
+"companies": [
+            { "id": "1", "name": "Luke", "bio": "Graphic Designer" },
+            { "id": "2", "name": "Leia", "bio": "Graphic Designer" },
+            { "id": "3", "name": "Anakin", "bio": "Graphic Designer" }
+        ]
 }
