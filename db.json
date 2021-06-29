@@ -1,8 +1,14 @@
 {
   "students": [
-            { "id": "1", "name": "Luke", "bio": "Graphic Designer" },
-            { "id": "2", "name": "Leia", "bio": "Graphic Designer" },
-            { "id": "3", "name": "Anakin", "bio": "Graphic Designer" }
+            { "id": "1", "name": "Luke", "bio": "Graphic Designer", "city":"Karachi", "country":"Pakistan", "Department":"Electrical", "year":"third", 
+             "about":"love to solve real world probs", "skills":[{"id":"12", "name":"html", "level":"intermediate" },{"id":"123", "name":"css", "level":"beginner" },
+                                                                 {"id":"1245", "name":"React", "level":"expert" }]},
+            { "id": "2", "name": "Leia", "bio": "Graphic Designer", "city":"Karachi", "country":"Pakistan", "Department":"Electrical", "year":"third", 
+             "about":"love to solve real world probs", "skills":[{"id":"12", "name":"html", "level":"intermediate" },{"id":"123", "name":"css", "level":"beginner" },
+                                                                 {"id":"1245", "name":"React", "level":"expert" }]},
+            { "id": "3", "name": "Anakin", "bio": "Graphic Designer", "city":"Karachi", "country":"Pakistan", "Department":"Electrical", "year":"third", 
+             "about":"love to solve real world probs", "skills":[{"id":"12", "name":"html", "level":"intermediate" },{"id":"123", "name":"css", "level":"beginner" },
+                                                                 {"id":"1245", "name":"React", "level":"expert" }]}
         ]
   ,
   "mentors": [
