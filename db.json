@@ -10,12 +10,6 @@
              "about":"love to solve real world probs", "skills":[{"id":"12", "name":"html", "level":"intermediate" },{"id":"123", "name":"css", "level":"beginner" },
                                                                  {"id":"1245", "name":"React", "level":"expert" }], "photos":{"cover":"", "profile":""},"username":"mali", "extra":{}}
         ]
-  ,
-  "mentors": [
-            { "id": "1", "name": "Luke", "bio": "Graphic Designer" },
-            { "id": "2", "name": "Leia", "bio": "Graphic Designer" },
-            { "id": "3", "name": "Anakin", "bio": "Graphic Designer" }
-        ]
 ,
 "companies": [
            {
@@ -272,5 +266,57 @@
       "applicants": [{"user_id": "123"},{"user_id": "123"},{"user_id": "123"},{"user_id": "123"},{"user_id": "123"}],
       "hired": [{"user_id": "123", "reviews":{}}],
       "completed": "false"
-    }]
+    }],
+  
+  "mentors":[{
+  "_id":"1212",
+  "name": {"firstname":"Shahif", "lastname": "Ali"},
+  "city":"Karachi",
+  "country":"Pakistan",
+  "username": "shahif12",
+  "email":"shahif@gmail.com",
+  "skills":[{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"}].
+  "about":"Tech Lead in a reputed compay",
+  "qualification": "Phd",
+  "designation": "Tech Lead at Pepsi",
+  "photos":{
+    "profile": "htpapsdsddsd.o",
+    "cover": "sdjsdsdsdjs.c"
+  },
+  "experience":" tsakjdsds skdjs dsjdksljdskdjksjdksdjksjdksjdsdsdksjdsjdjskdjskdjskj dsdjskdj sk sjdksjdkljdksjajrajpwwadj sdjwopj woejwopekqwekwkeo woejwope ejo je e   kwe."
+},
+{
+  "_id":"1212",
+  "name": {"firstname":"Shahif", "lastname": "Ali"},
+  "city":"Karachi",
+  "country":"Pakistan",
+  "username": "shahif12",
+  "email":"shahif@gmail.com",
+  "skills":[{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"}].
+  "about":"Tech Lead in a reputed compay",
+  "qualification": "Phd",
+  "designation": "Tech Lead at Pepsi",
+  "photos":{
+    "profile": "htpapsdsddsd.o",
+    "cover": "sdjsdsdsdjs.c"
+  },
+  "experience":" tsakjdsds skdjs dsjdksljdskdjksjdksdjksjdksjdsdsdksjdsjdjskdjskdjskj dsdjskdj sk sjdksjdkljdksjajrajpwwadj sdjwopj woejwopekqwekwkeo woejwope ejo je e   kwe."
+},
+{
+  "_id":"1212",
+  "name": {"firstname":"Shahif", "lastname": "Ali"},
+  "city":"Karachi",
+  "country":"Pakistan",
+  "username": "shahif12",
+  "email":"shahif@gmail.com",
+  "skills":[{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"}].
+  "about":"Tech Lead in a reputed compay",
+  "qualification": "Phd",
+  "designation": "Tech Lead at Pepsi",
+  "photos":{
+    "profile": "htpapsdsddsd.o",
+    "cover": "sdjsdsdsdjs.c"
+  },
+  "experience":" tsakjdsds skdjs dsjdksljdskdjksjdksdjksjdksjdsdsdksjdsjdjskdjskdjskj dsdjskdj sk sjdksjdkljdksjajrajpwwadj sdjwopj woejwopekqwekwkeo woejwope ejo je e   kwe."
+}]
 }
