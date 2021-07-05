@@ -18,11 +18,259 @@
         ]
 ,
 "companies": [
-            { "id": "1", "name": "Luke", "bio": "Graphic Designer" },
-            { "id": "2", "name": "Leia", "bio": "Graphic Designer" },
-            { "id": "3", "name": "Anakin", "bio": "Graphic Designer" }
-        ]
-  ,
-  "users":[]
-          
+           {
+  "_id": "123",
+  "company_name": "Pepsi",
+  "email": "malik@gmail.com",
+  "established_since": "1998",
+  "followers": [
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    }
+  ],
+  "following": [
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    }
+  ],
+  "location": "Karachi",
+  "no_of_employes": "1233",
+  "overview": "Best in the buisness",
+  "upload_photo": "https:image.com",
+  "url": "https:pepsi.com",
+  "verify": {
+    "serial": "SN-2312",
+    "verify": "true"
+  },
+  "created_at": "21-2-2021",
+  "posted_internships":[{
+    "internship_id": "213213"
+  },{
+    "internship_id": "213213"
+  },{
+    "internship_id": "213213"
+  },{
+    "internship_id": "213213"
+  }],
+  "extra":{}
+},
+            {
+  "_id": "123",
+  "company_name": "Pepsi",
+  "email": "malik@gmail.com",
+  "established_since": "1998",
+  "followers": [
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    }
+  ],
+  "following": [
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    }
+  ],
+  "location": "Karachi",
+  "no_of_employes": "1233",
+  "overview": "Best in the buisness",
+  "upload_photo": "https:image.com",
+  "url": "https:pepsi.com",
+  "verify": {
+    "serial": "SN-2312",
+    "verify": "true"
+  },
+  "created_at": "21-2-2021",
+  "posted_internships":[{
+    "internship_id": "213213"
+  },{
+    "internship_id": "213213"
+  },{
+    "internship_id": "213213"
+  },{
+    "internship_id": "213213"
+  }],
+  "extra":{}
+},
+  {
+  "_id": "123",
+  "company_name": "Pepsi",
+  "email": "malik@gmail.com",
+  "established_since": "1998",
+  "followers": [
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    }
+  ],
+  "following": [
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    },
+    {
+      "user_id": "23223",
+      "name": "Shaharyar malik"
+    }
+  ],
+  "location": "Karachi",
+  "no_of_employes": "1233",
+  "overview": "Best in the buisness",
+  "upload_photo": "https:image.com",
+  "url": "https:pepsi.com",
+  "verify": {
+    "serial": "SN-2312",
+    "verify": "true"
+  },
+  "created_at": "21-2-2021",
+  "posted_internships":[{
+    "internship_id": "213213"
+  },{
+    "internship_id": "213213"
+  },{
+    "internship_id": "213213"
+  },{
+    "internship_id": "213213"
+  }],
+  "extra":{}
+  }],
+  "users":[],
+  
+  "internships": [
+    {
+      "_id": "4323",
+      "job_title": "React Developer",
+      "location": "Karachi",
+      "employment_type": "Internship",
+      "description": "this is a office job which needs a key player to perform in basically each and every step of the development of our products and can avail every opportunity to learn.",
+      "skills": ["HTML", "CSS", "REACT","GIT", "MYSQL"],
+      "receive_applicants_by": {
+        "email": "true",
+        "email_address": "adslkd@gmail.com",
+        "extended_url": "false",
+        "url": ""
+      },
+      "created_at": "12-11-2021",
+      "applicants": [{"user_id": "123"},{"user_id": "123"},{"user_id": "123"},{"user_id": "123"},{"user_id": "123"}],
+      "hired": [{"user_id": "123", "reviews":{}}],
+      "completed": "false"
+    },
+    {
+      "_id": "4323",
+      "job_title": "React Developer",
+      "location": "Karachi",
+      "employment_type": "Internship",
+      "description": "this is a office job which needs a key player to perform in basically each and every step of the development of our products and can avail every opportunity to learn.",
+      "skills": ["HTML", "CSS", "REACT","GIT", "MYSQL"],
+      "receive_applicants_by": {
+        "email": "true",
+        "email_address": "adslkd@gmail.com",
+        "extended_url": "false",
+        "url": ""
+      },
+      "created_at": "12-11-2021",
+      "applicants": [{"user_id": "123"},{"user_id": "123"},{"user_id": "123"},{"user_id": "123"},{"user_id": "123"}],
+      "hired": [{"user_id": "123", "reviews":{}}],
+      "completed": "false"
+    },
+    {
+      "_id": "4323",
+      "job_title": "React Developer",
+      "location": "Karachi",
+      "employment_type": "Internship",
+      "description": "this is a office job which needs a key player to perform in basically each and every step of the development of our products and can avail every opportunity to learn.",
+      "skills": ["HTML", "CSS", "REACT","GIT", "MYSQL"],
+      "receive_applicants_by": {
+        "email": "true",
+        "email_address": "adslkd@gmail.com",
+        "extended_url": "false",
+        "url": ""
+      },
+      "created_at": "12-11-2021",
+      "applicants": [{"user_id": "123"},{"user_id": "123"},{"user_id": "123"},{"user_id": "123"},{"user_id": "123"}],
+      "hired": [{"user_id": "123", "reviews":{}}],
+      "completed": "false"
+    }]
 }
