@@ -211,7 +211,6 @@
   }],
   "extra":{}
   }],
-  "users":[],
   
   "internships": [
     {
@@ -276,7 +275,7 @@
   "country":"Pakistan",
   "username": "shahif12",
   "email":"shahif@gmail.com",
-  "skills":[{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"}].
+  "skills":[{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"}],
   "about":"Tech Lead in a reputed compay",
   "qualification": "Phd",
   "designation": "Tech Lead at Pepsi",
@@ -293,7 +292,7 @@
   "country":"Pakistan",
   "username": "shahif12",
   "email":"shahif@gmail.com",
-  "skills":[{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"}].
+  "skills":[{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"}],
   "about":"Tech Lead in a reputed compay",
   "qualification": "Phd",
   "designation": "Tech Lead at Pepsi",
@@ -310,7 +309,7 @@
   "country":"Pakistan",
   "username": "shahif12",
   "email":"shahif@gmail.com",
-  "skills":[{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"}].
+  "skills":[{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"},{"name":"HTML", "experience":"5 years"}],
   "about":"Tech Lead in a reputed compay",
   "qualification": "Phd",
   "designation": "Tech Lead at Pepsi",
